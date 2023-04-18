@@ -6,7 +6,10 @@ This initial version of the tool supports 3D non-probabilistic atlases with sequ
 
 ## usage
 `customize-atlas.py` can be run from the command line as follows:
-`python3 customize-atlas.py [atlas_filename] [label_filename] [assignment_filename] --new_atlas_file [my_new_atlas_filename] --new_label_file [my_new_label_filename]`
+
+```
+python3 customize-atlas.py [atlas_filename] [label_filename] [assignment_filename] --new_atlas_file [my_new_atlas_filename] --new_label_file [my_new_label_filename]
+```
 
 where
 
