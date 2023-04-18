@@ -1,0 +1,3 @@
+HippAmyg_LR_21_21=Hipp_L_2_2,Hipp_R_2_2,Amyg_L_2_1,Amyg_R_2_1
+SFG_LR_7_1=SFG_L_7_1,SFG_R_7_1
+SFG_R_7_765=SFG_R_7_7,SFG_R_7_6,SFG_R_7_5
